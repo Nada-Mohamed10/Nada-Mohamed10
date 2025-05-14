@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nada Mohamed</h1>
+<h1 align="center">Hello!, I'm Nada Mohamed</h1>
 <h3 align="center">Software Engineer |.NET Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
