@@ -120,7 +120,8 @@ Proficient in C#, ASP.NET Core, Entity Framework, Angular, Node.js, and SQL Serv
       <td>
         <h3>🏆 Certifications & Training</h3>
         <ul>
-          <li>Information Technology Institute (ITI) - Front End Developer</li>
+          <li>Information Technology Institute (ITI) - Professional Developement & BI-Infused CRM for  9 months </li>
+          <li>Information Technology Institute (ITI) - Front End Developer for  1 month </li>
           <li>Diploma Front End - MEC Academy</li>
         </ul>
       </td>
